@@ -9,5 +9,10 @@
   # Create visualizations
   
  # R - qiimer2, phyloseq & metagenomeSeq
+  * Sample composition plots
+  * Alpha & Beta diversity
+  * Differential abundance analysis (for zero inflated data)
  
  # Python - Microbiome gene set enrichment
+   * Microbiome set enrichment analysis with MSEA
+   * Pathways enrichment analysis with GSEApy
